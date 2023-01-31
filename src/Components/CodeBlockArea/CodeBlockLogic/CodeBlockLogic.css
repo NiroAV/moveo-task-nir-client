@@ -1,0 +1,41 @@
+.CodeBlockLogic {
+	padding: 0;
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    
+}
+
+
+textarea{
+    width: 400px;
+    height: 520px;
+    margin-top: 10px;
+    margin-right: 50px;
+    font-size: large;
+}
+
+pre{
+    width: 400px;
+    height: 500px;
+}
+
+.mode{
+    color: white;
+    margin-left: 100px;
+}
+
+.nav-home{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 10px;
+    background-color: white;
+    width: 100px;
+    font-weight: bolder;
+}
